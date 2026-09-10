@@ -20,5 +20,7 @@ The project uses the publicly available **Cloud Anomaly Data** dataset from Kagg
 6. Review the generated accuracy results, classification reports, confusion matrices, model comparison, SHAP plots, and LIME explanation.
 
 **Platform:** Google Colab
+
 **Language:** Python
+
 **Dataset File:** `Cloud_Anomaly_Dataset.csv`
