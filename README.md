@@ -1,6 +1,6 @@
 # Cloud Resource Usage Dataset for Anomaly Detection using Machine Learning and Explainable AI
 
-## Short Description
+## Description
 
 This project develops a machine learning framework for detecting anomalies in cloud resource usage and interpreting model predictions using SHAP and LIME. Four models Decision Tree, Random Forest, Gradient Boosting, and XGBoost are evaluated using the cloud anomaly dataset.
 
